@@ -8,6 +8,6 @@ def hello_world():
 
 
 #ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
-#note : change reponame with your Ultroid fork repo and don't forget to create .env file with all filled vars 
 
-os.system("git clone https://username:token@github.com/username/reponame && cd Ultroid && pip install -r requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m pyUltroid &")
+
+os.system("git clone https://username:token@github.com/username/Ultroid && cd Ultroid && pip install -r requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m pyUltroid &
