@@ -17,4 +17,4 @@ An Script to deploy ultroid on mogenius.com
 - Feel free to ask me when u get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/smithereensoul)
 
 ### Original Code
-- [See Here](https://github.com/ITS-ZAID/mogenius)
+- [See Here](https://github.com/ITZ-ZAID/mogenius)
