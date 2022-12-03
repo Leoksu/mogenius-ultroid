@@ -11,3 +11,6 @@ An Script to deploy ultroid on mogenius.com
 - Swipe core, ram, disk to maximum
 - Add port `8080` and run it
 - Congratulations you are done!
+
+### Need help?
+- Feel free to ask me when u get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/smithereensoul)
