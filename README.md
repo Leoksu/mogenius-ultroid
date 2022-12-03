@@ -2,9 +2,10 @@
 An Script to deploy ultroid on mogenius.com
 
 ### how to
-- First clone this repo and set it private
+- First, you need to fork [Ultroid](github.com/TeamUltroid/Ultroid] and create `.env` file with filled vars
 - Go to [GithubToken](https://github.com/settings/tokens) and create new access token (checklist all permission)
-- Now go to your clone repo and edit `app.py` like the existing examples
+- Clone this repo and set it private
+- Open your clone repo and edit `app.py` like the existing examples
 - And then open [mogenius](mogenius.com) create new accounts and add cloudspace
 - Then add service and select docker file
 - Connect your GitHub account, select repository the clone of this repo
