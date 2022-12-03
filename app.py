@@ -6,5 +6,7 @@ app = Flask(__name__)
 def hello_world():
    return 'Hello, World!'
 
-#Ex https://Itz-zaid:ghp_147bkkabcdefgh@github.com/Itz-zaid/anything
-os.system("git clone https://username:token@github.com/username/reponame ok && cd ok && pip3 install -U -r requirements.txt && nohup python3 main.py &")
+#get your github token in https://github.com/settings/tokens
+
+#Ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
+os.system("git clone https://username:token@github.com/username/reponame && cd Ultroid && pip install -r requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m pyUltroid &")
