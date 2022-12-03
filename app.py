@@ -11,3 +11,4 @@ def hello_world():
 
 
 os.system("git clone https://username:token@github.com/username/Ultroid && cd Ultroid && pip install -r requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m pyUltroid &
+")
