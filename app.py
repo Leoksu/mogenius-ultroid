@@ -7,7 +7,7 @@ def hello_world():
    return 'Hello, World!'
 
 
-#ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
-
+# ex https://Leoksu:ghp_147bkkabcdefgh@github.com/Leoksu/Ultroid
+# if u clone and rename the repo, then change 'Ultroid' to ur repo name
 
 os.system("git clone https://username:token@github.com/username/Ultroid && cd Ultroid && pip install -r requirements.txt && pip install -r resour*/start*/optiona*.txt && python3 -m pyUltroid &")
