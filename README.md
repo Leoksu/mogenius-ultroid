@@ -1,7 +1,8 @@
-# mogenius
-An Script to deploy ultroid on mogenius.com
 
-### how to
+<b>An Script to deploy ultroid on mogenius.com </b>
+
+### Tutorial
+
 - First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) and create `.env` file with filled vars
 - Go to [GithubToken](https://github.com/settings/tokens) and create new access token (give all permission)
 - Clone this repo and set it private
@@ -29,4 +30,4 @@ An Script to deploy ultroid on mogenius.com
 ### Credits
 - This is a modified script for deploy ultroid
 - There is [Original](https://github.com/ITZ-ZAID/mogenius) code
-- if u use this script, please give both a star 
+- if u use this script, please give both a star ;)
