@@ -19,10 +19,14 @@ An Script to deploy ultroid on mogenius.com
 <summary><h3>How to clone?</h3></summary>
 
 - **if you in mobile, turn on desktop site** 
-  - click plus sign besides your profile and import repository
-  - then fill the old repository column with repo link that u wanna clone
+  - click plus sign besides your profile icon and select import repository
+  - then fill the old repository column with repo link that you wanna clone
   - **SET YOUR CLONE REPO TO PRIVATE**
 <img src="./resources/extras/screencap.jpg" alt="details">
+</details>
 
-### Original Code
-- [See Here](https://github.com/ITZ-ZAID/mogenius)
+---
+### Credits
+- This is a modified script for deploy ultroid
+- There is [Original](https://github.com/ITZ-ZAID/mogenius) code
+- if u use this script, please give both a star 
