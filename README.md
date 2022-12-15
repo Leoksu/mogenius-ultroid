@@ -14,6 +14,7 @@
 <img src="./resources/extras/createfile.jpg" alt="details">
 </details>
 
+---
 - Go to [GithubToken](https://github.com/settings/tokens) and create new access token (give all permission)
 - Clone this repo and set it private
 - Open the clone of this repo and edit `app.py` like the existing examples
@@ -26,6 +27,7 @@
 <img src="./resources/extras/slidecpu.jpg" alt="details">
 </details>
 
+---
 - Add port `8080` and run it
 - Congratulations, you are done!
 
@@ -40,7 +42,6 @@
 </details>
 
 ---
-
 ### Need help?
 - Feel free to ask me when you get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/smithereensoul)
 
