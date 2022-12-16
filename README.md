@@ -1,3 +1,5 @@
+Up
+
 
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
 
@@ -34,9 +36,10 @@
 <details>
 <summary><h3>How to clone?</h3></summary>
 
+- Fork the repo that u wanna clone first and do the steps
 - **if you in mobile, turn on desktop site** 
   - click plus sign besides your profile icon and select import repository
-  - then fill the old repository column with repo link that you wanna clone
+  - then fill the old repository column with your forked repo link
   - **SET YOUR CLONE REPO TO PRIVATE**
 <img src="./resources/extras/screencap.jpg" alt="details">
 </details>
