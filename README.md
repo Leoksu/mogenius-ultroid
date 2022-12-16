@@ -3,7 +3,7 @@
 
 ### Tutorial
 
-- First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) and create `.env` file with filled vars
+- First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) **(set it private)** and create `.env` file with filled vars
 <details>
 <summary>How to create new file</summary>
 
