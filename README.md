@@ -18,7 +18,7 @@
 - Go to [GithubToken](https://github.com/settings/tokens) and create new access token (give all permission)
 - Clone this repo and set it private
 - Open the clone of this repo and edit `app.py` like the existing examples
-- And then open [mogenius](mogenius.com) create new accounts and add cloudspace
+- And then open [mogenius](https://mogenius.com/) create new accounts and add cloudspace
 - Then add service and select docker file
 - Connect your GitHub account, select repository the clone of this repo
 - Slide cpu, ram, disk to maximum
