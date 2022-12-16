@@ -1,4 +1,4 @@
-Up
+
 
 
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
