@@ -3,7 +3,19 @@
 
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
 
-### Tutorial
+<p align="center">
+  <b> Read this before do anything!!! </b>
+</p>
+
+> **Warning** 
+
+> If you use mogenius for deploying, it's mean you will not get help if there any error on your userbot.
+
+> [Team Ultroid](https://github.com/TeamUltroid) do not recommended mogenius, because you should make fork/clone repo that only you can access it (Unless you want to share your stringsession, and etc).
+
+> And you not be able to update Ultroid, you should make new clone to do it.
+
+# Tutorial
 
 - First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) **(set it private)** and create `.env` file with filled vars
 <details>
