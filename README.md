@@ -2,7 +2,7 @@
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
 
 <p align="center">
-  <b> Read this before do anything!!! </b>
+  <b> :warning: Read this before do anything!!! :warning: </b>
 </p>
 
 > **Warning** 
