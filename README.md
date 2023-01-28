@@ -1,6 +1,4 @@
 
-
-
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
 
 <p align="center">
@@ -15,6 +13,7 @@
 
 > And you not be able to update Ultroid, you should make new clone to do it.
 
+---
 # Tutorial
 
 - First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) **(set it private)** and create `.env` file with filled vars
