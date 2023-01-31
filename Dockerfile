@@ -1,7 +1,6 @@
 FROM debian:11
 ARG DEBIAN_FRONTEND=noninteractive
-RUN apt-get update && apt-get upgrade -y
-
+RUN apt-get update
 RUN apt-get install python3 python3-pip git curl ffmpeg mediainfo wkhtmltopdf -y
 ARG USER=root
 USER $USER
