@@ -8,10 +8,10 @@
 <details>
 <summary><h3>How to clone?</h3></summary>
 
-- Fork this that you wanna clone first and do the steps below
-- **if you in mobile, turn on desktop site** 
-  - click plus sign besides your profile icon and select import repository
-  - then fill the old repository column with your forked repo link
+- Fork the repo that you wanna clone first and do the steps below
+- **If you in mobile, turn on desktop site** 
+  - Click plus sign besides your profile icon and select import repository
+  - Then fill the old repository column with your forked repo link
   - **SET YOUR CLONE REPO TO PRIVATE**
 <img src="./resources/extras/screencap.jpg" alt="details">
 </details>
