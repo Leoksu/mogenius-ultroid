@@ -3,10 +3,13 @@
 
 # Tutorial
 
-1. Go to [GithubToken](https://github.com/settings/tokens) and create new access token (give all permission)
+1. Go to [GithubToken](https://github.com/settings/tokens) and create new access token
+> Recommend to give all permission, or you can do what do you want
+
+> **Required: repo (public & private)**
 2. Clone this repo and set it private
 <details>
-<summary><h3>How to clone?</h3></summary>
+<summary>How to clone manually?</summary>
 
 - Fork the repo that you wanna clone first and do the steps below
 - **If you in mobile, turn on desktop site** 
