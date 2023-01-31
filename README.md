@@ -37,7 +37,8 @@
 # Need help?
 - Feel free to ask me when you get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/aethersghoul)
 
-### Credits
+# Credits
 - This is a modified script for deploy ultroid
 - There is [Original](https://github.com/ITZ-ZAID/mogenius) code
-- if u use this script, please give both a star ;)
+- If this script help you, don't forget give star 
+> star it bitjh
