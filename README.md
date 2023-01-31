@@ -1,65 +1,44 @@
 
 <b><h3>An Script to deploy ultroid on mogenius.com</h3></b>
 
-<p align="center">
-  <b> :warning: Read this before do anything!!! :warning: </b>
-</p>
-
-> **Warning** 
-
-> If you use mogenius for deploying, it's mean you will not get help if there any error on your userbot.
-
-> [Team Ultroid](https://github.com/TeamUltroid) do not recommended mogenius, because you should make fork/clone repo that only you can access it (Unless you want to share your stringsession, and etc).
-
-> And you not be able to update Ultroid, you should make new clone to do it.
-
----
 # Tutorial
 
-- First, you need to clone [Ultroid](https://github.com/TeamUltroid/Ultroid) **(set it private)** and create `.env` file with filled vars
-<details>
-<summary>How to create new file</summary>
+1. Go to [GithubToken](https://github.com/settings/tokens) and create new access token
+> Recommend to give all permission, or you can do what do you want
 
-- In your cloned repo
-  - View code 
-  - Click 3 dots 
-  - Select create new files
-<img src="./resources/extras/createfile.jpg" alt="details">
+> **Required: repo (public & private)**
+2. Clone this repo and set it private
+<details>
+<summary>How to clone manually?</summary>
+
+- Fork the repo that you wanna clone first and do the steps below
+- **If you in mobile, turn on desktop site** 
+  - Click plus sign besides your profile icon and select import repository
+  - Then fill the old repository column with your forked repo link
+  - **SET YOUR CLONE REPO TO PRIVATE**
+<img src="./resources/extras/screencap.jpg" alt="details">
 </details>
 
 ---
-- Go to [GithubToken](https://github.com/settings/tokens) and create new access token (give all permission)
-- Clone this repo and set it private
-- Open the clone of this repo and edit `app.py` like the existing examples
-- And then open [mogenius](https://mogenius.com/) create new accounts and add cloudspace
-- Then add service and select docker file
-- Connect your GitHub account, select repository the clone of this repo
-- Slide cpu, ram, disk to maximum
+3. Open the clone of this repo and edit `.env` file with your variables
+4. And then open [mogenius](https://mogenius.com/) create new accounts and add cloudspace
+5. Then add service and select docker file
+6. Connect your GitHub account, select repository, add your clone repository 
+7. Slide cpu, ram, disk to maximum
 <details>
 <summary>Detail pic</summary>
 <img src="./resources/extras/slidecpu.jpg" alt="details">
 </details>
 
 ---
-- Add port `8080` and run it
+8. Add port `8080` and run it, wait till the deployment complete
 - Congratulations, you are done!
 
-<details>
-<summary><h3>How to clone?</h3></summary>
+# Need help?
+- Feel free to ask me when you get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/aethersghoul)
 
-- Fork the repo that u wanna clone first and do the steps
-- **if you in mobile, turn on desktop site** 
-  - click plus sign besides your profile icon and select import repository
-  - then fill the old repository column with your forked repo link
-  - **SET YOUR CLONE REPO TO PRIVATE**
-<img src="./resources/extras/screencap.jpg" alt="details">
-</details>
-
----
-### Need help?
-- Feel free to ask me when you get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/smithereensoul)
-
-### Credits
+# Credits
 - This is a modified script for deploy ultroid
 - There is [Original](https://github.com/ITZ-ZAID/mogenius) code
-- if u use this script, please give both a star ;)
+- If this script help you, don't forget give star 
+> star it bitjh
