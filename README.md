@@ -15,7 +15,7 @@
 - **If you in mobile, turn on desktop site** 
   - Click plus sign besides your profile icon and select import repository
   - Then fill the old repository column with your forked repo link
-  - **SET YOUR CLONE REPO TO PRIVATE**
+  - :warning: **SET YOUR CLONE REPO TO PRIVATE** :warning:
 <img src="./resources/extras/screencap.jpg" alt="details">
 </details>
 
@@ -23,7 +23,7 @@
 3. Open the clone of this repo and edit `.env` file with your variables
 4. And then open [mogenius](https://mogenius.com/) create new accounts and add cloudspace
 5. Then add service and select docker file
-6. Connect your GitHub account, select repository, add your clone repository 
+6. Connect your GitHub account, select repository, add the clone of this repository 
 7. Slide cpu, ram, disk to maximum
 <details>
 <summary>Detail pic</summary>
