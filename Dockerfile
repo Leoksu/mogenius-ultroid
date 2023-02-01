@@ -1,7 +1,7 @@
 FROM debian:11
 ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get update
-RUN apt-get install python3 python3-pip git curl ffmpeg mediainfo wkhtmltopdf -y
+RUN apt-get install python3 python3-pip git curl ffmpeg mediainfo -y
 ARG USER=root
 USER $USER
 WORKDIR /app
