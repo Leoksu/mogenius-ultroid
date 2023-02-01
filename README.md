@@ -35,7 +35,7 @@
 - Congratulations, you are done!
 
 # Need help?
-- Feel free to ask me when you get problem  [![Contact me](https://img.shields.io/badge/My%20Telegram-blue)](https://t.me/aethersghoul)
+- Feel free to ask me when you get problem  [![ass](https://img.shields.io/badge/My%20-Telegram-blue.svg)](https://t.me/leoxsu)
 
 # Credits
 - This is a modified script for deploy ultroid
