@@ -8,12 +8,10 @@
 <details>
 <summary>How to clone manually?</summary>
 
-- Fork this repo first and do the steps below
-- **If you in mobile, turn on desktop site** 
-  - Click plus sign besides your profile icon and select import repository
-  - Then fill the old repository column with your forked repo link
-  - :warning: **SET YOUR CLONE REPO TO PRIVATE** :warning:
-<img src="./resources/extras/screencap.jpg" alt="details">
+- Simply click this [link](https://github.com/Leoksu/mogenius-ultroid)
+- Enter any repository name you want
+- :warning: **SET YOUR CLONE REPO TO PRIVATE** :warning:
+
 </details>
 
 ---
